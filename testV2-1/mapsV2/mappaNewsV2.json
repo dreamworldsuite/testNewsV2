@@ -5,22 +5,17 @@
     "note": "Test Versione 2"
   },
   "title": "Monferrato\nTavola dei Bandi",
-  "updatedAt": "2026-03-18T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
+  "updatedAt": "2026-03-30T12:00:00Z",
+  "dataAggiornamento": "30-03-2026",
   "newsV2": [
     {
-      "date": "18-03-2026",
-      "type": "BANDO PUBBLICO",
-      "title": " ",
-      "message": "Per volontà del Marchese del Monferrato
-\nSIA NOTO A TUTTI
-\nChe dalla data del presente, la città di CASALE è proclamata CAPITALE del Marchesato del Monferrato.
-\nIn essa risiedono d'ora innanzi la Corte, il Consiglio e la Giustizia del Marchese.
-\nChi si oppone a tale volontà incorrerà nella sua ira.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "date": "30-03-2026",
+      "type": "Annuncio",
+      "title": "Siamo on-line",
+      "contatti": {
+        "Email": "info@example.com"
+      },
+      "message": "Siete pronti per vivere questa avventura nel Monferrato del 1434?"
     }
   ]
 }
